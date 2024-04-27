@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Gnu/Linux
 - 📫 Email: Ali.Sharifi.dev@gmail.com
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-1dev&theme=github_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-1Dev&theme=github_dark)
 
 ### VISITOR COUNT
 
